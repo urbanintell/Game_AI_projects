@@ -1,0 +1,33 @@
+StartTime = -17
+LittleState: StTime = -17 EdTime = 59
+Totaltime = 76
+Jump:  StTime = 41 EdTime = 59
+Die:  Gap 
+NEWLEVELSTART
+StartTime = -17
+LittleState: StTime = -17 EdTime = 2
+Totaltime = 19
+Die:  Gap 
+NEWLEVELSTART
+StartTime = -17
+LittleState: StTime = -17 EdTime = 2
+Totaltime = 19
+Die:  Gap 
+NEWLEVELSTART
+StartTime = -17
+RightMove: StTime = -16 EdTime = 59
+LeftMove: StTime = 44 EdTime = 27
+RightMove: StTime = 72 EdTime = 75
+RightMove: StTime = 113 EdTime = 195
+RightMove: StTime = 258 EdTime = 231
+RightMove: StTime = 303 EdTime = 308
+RightMove: StTime = 482 EdTime = 373
+RightMove: StTime = 570 EdTime = 395
+RightMove: StTime = 600 EdTime = 686
+LeftMove: StTime = 892 EdTime = 252
+RightMove: StTime = 1118 EdTime = 713
+RightMove: StTime = 1453 EdTime = 1054
+LeftMove: StTime = 1795 EdTime = 254
+Totaltime = 1839
+RightMove: StTime = 1801 EdTime = 1075
+LittleState: StTime = -17 EdTime = 1822
